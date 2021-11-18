@@ -1,5 +1,5 @@
 {% set name = "django-polymorphic-tree" %}
-{% set version = "2.0" %}
+{% set version = "2.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/django-polymorphic-tree-{{ version }}.tar.gz
-  sha256: 16ecaed9d3fc65adb36463d5d9aca4fb33fad52fcf2300fb6f2c70124af3b72a
+  sha256: a6d40c2ef350c5a50bd83727ca8cba85088890a7a08a106caeb3c5dc5ae072aa
 
 build:
   number: 0
