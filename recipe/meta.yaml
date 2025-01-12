@@ -20,6 +20,7 @@ requirements:
     - django
     - pip
     - python {{ python_min }}
+    - setuptools
   run:
     - django
     - django-mptt >=0.8.0
