@@ -1,7 +1,7 @@
 About django-polymorphic-tree-feedstock
 =======================================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-polymorphic-tree-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tmpx0lbzbzi-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/django-polymorphic/django-polymorphic-tree
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11974&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/django-polymorphic-tree-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/tmpx0lbzbzi-feedstock?branchName=main">
       </a>
     </td>
   </tr>
