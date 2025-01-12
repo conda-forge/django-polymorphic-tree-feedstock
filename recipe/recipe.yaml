@@ -30,12 +30,10 @@ requirements:
     - python >=${{ python_min }}
 
 tests:
-  - requirements:
-      run:
-        - pip
-        - python ${{ python_min }}.*
-    script:
-      - pip check
+  - python:
+      imports:
+        - polymorphic_tree
+      python_version: ${{ python_min }}.*
 
 about:
   summary: A polymorphic mptt structure to display content in a tree.
